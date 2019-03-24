@@ -1,2 +1,2 @@
-# -Attandance-System-by-QR-Code
+# Attendance-System-by-QR-Code
 CENG396 Software Development
