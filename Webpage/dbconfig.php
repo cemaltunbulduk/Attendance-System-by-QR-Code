@@ -1,8 +1,8 @@
 <?php 
-$server_name ="77.245.159.20";
+$server_name ="server_ip";
 $mysql_username="mtlbl_bck";
-$mysql_password="Potato1234";
+$mysql_password="password";
 $db_name="mtlbl_db";
 
 $conn = mysqli_connect($server_name, $mysql_username, $mysql_password,$db_name);
-?>	
+?>
