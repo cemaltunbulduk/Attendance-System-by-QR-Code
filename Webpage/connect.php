@@ -1,6 +1,6 @@
 
 <?php
-$conn = new mysqli("77.245.159.20", "mtlbl_bck", "Potato1234", "mtlbl_db");
+$conn = new mysqli("server_ip", "mtlbl_bck", "password", "mtlbl_db");
 
 /* check connection */
 if (mysqli_connect_errno()) {
